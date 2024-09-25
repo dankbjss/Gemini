@@ -15,10 +15,11 @@ API_KEY=your_api_key_here
 
 ### Dependencies
 
-| Dependency   | Installation                |
-| ------------ | --------------------------- |
-| python 3.11  | [link](https://example.com) |
-| pipenv       | `pip install pipenv`        |
+| Dependency          | Installation                      |
+| ------------------- | --------------------------------- |
+| python 3.11         | [link](https://example.com)       |
+| pipenv              | `pip install pipenv`              |
+| google-generativeai | `pip install google-generativeai` |
 
 With the above dependencies installed, you can clone the repository and install
 the required packages with the following command from within the project
